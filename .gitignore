@@ -8,6 +8,5 @@ dashboard/migrations/__pycache__/
 item/__pycache__/
 item/migrations/__pycache__/
 puddle/__pycache__/
-db.sqlite3
 .env
 .DS_Store
