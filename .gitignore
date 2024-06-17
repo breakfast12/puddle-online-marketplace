@@ -1,0 +1,13 @@
+.venv
+conversation/__pycache__/
+conversation/migrations/__pycache__/
+core/__pycache__/
+core/migrations/__pycache__/
+dashboard/__pycache__/
+dashboard/migrations/__pycache__/
+item/__pycache__/
+item/migrations/__pycache__/
+puddle/__pycache__/
+db.sqlite3
+.env
+.DS_Store
