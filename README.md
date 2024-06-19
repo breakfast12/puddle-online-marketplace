@@ -15,3 +15,5 @@
 
 - username : skidipapap
 - password : 123hahaxixi
+
+### Using Python3, Django and sqlite3
